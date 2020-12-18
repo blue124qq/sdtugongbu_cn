@@ -1,0 +1,12 @@
+.pagingNav{padding:5px 10px; width: 100%;    text-align: center;}
+.pagingNav p{height:30px; line-height:30px;}
+.pagingNav .uls{ overflow:hidden;width:100%;text-align:center;}
+
+.pagingNav .uls a{ margin-left:5px; padding:0 10px; height:28px; line-height:28px; border:1px solid #ccc; text-decoration:none;    display: inline-block;}
+.pagingNav .uls a:hover , .pagingNav .uls a.oran_pg_cur{background-color:#4c4948; border-color:#1651b9; color:#fff;}
+.pagingNav .uls .tBtn:hover{background-color:inherit; color:inherit; *background-color:transparent; *color:#666;}
+
+.pagingNav .uls span{font-size:14px;margin-left:10px;}
+.pagingNav .uls em{color:#1651b9;}
+
+
